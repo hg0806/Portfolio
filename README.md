@@ -48,8 +48,8 @@ Next.js 15 + Supabase 기반의 Notion 스타일 포트폴리오 플랫폼
 
 ```bash
 # Git으로 클론하기
-git clone https://github.com/JIIIW/hangspofol.git
-cd hangspofol
+git clone https://github.com/hg0806/Portfolio.git
+cd Portfolio
 
 # 또는 ZIP 파일 다운로드 후 압축 해제
 ```
